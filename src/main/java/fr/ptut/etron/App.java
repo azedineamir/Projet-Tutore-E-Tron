@@ -11,7 +11,7 @@ public class App {
     public static String getHOST() {
         return HOST;
     }
-    private static final int PORT = 8887;
+    private static final int PORT = /*enter the port */;
     public static int getPort() {
         return PORT;
     }
