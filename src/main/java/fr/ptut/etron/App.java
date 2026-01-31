@@ -7,7 +7,7 @@ import org.apache.log4j.BasicConfigurator;
 import java.net.InetSocketAddress;
 
 public class App {
-    private static final String HOST = "192.168.0.2";
+    private static final String HOST = /*enter your ip*/;
     public static String getHOST() {
         return HOST;
     }
